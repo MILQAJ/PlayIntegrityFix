@@ -31,7 +31,7 @@ Also, if you are using custom rom or custom kernel, be sure that your kernel nam
 After requesting an attestation, you should get this result:
 
 - MEETS_BASIC_INTEGRITY   ✅
-- MEETS_DEVICE_INTEGRITY  ✅
+- MEETS_DEVICE_INTEGRITY  ❌
 - MEETS_STRONG_INTEGRITY  ❌ ([Can be achieved with some additional work](https://github.com/chiteroman/PlayIntegrityFix#a-word-on-passing-strong-integrity))
 - MEETS_VIRTUAL_INTEGRITY ❌ (this is for emulators only)
 
